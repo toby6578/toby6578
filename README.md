@@ -6,8 +6,7 @@ management platform for construction companies, running on Lambda and Aurora DSQ
 agentic AI behind its core features.
 
 Before that, about ten years building trading compliance systems for energy trading desks
-in London and the US. That long in compliance leaves you careful about which parts of a
-system are allowed to be only approximately right.
+in London and the US.
 
 ### What's here
 
@@ -18,8 +17,6 @@ on every deploy, and a fake so none of it needs a live Anthropic account to test
 
 ### Elsewhere
 
-I write occasionally at **[tobynelson.co.uk/writing](https://tobynelson.co.uk/writing)** —
-most recently on
-[keeping a language model away from the numbers](https://tobynelson.co.uk/writing/keeping-the-model-away-from-the-numbers).
+I write occasionally at **[tobynelson.co.uk/writing](https://tobynelson.co.uk/writing)**.
 
 Available for contract work — [hello@tobynelson.co.uk](mailto:hello@tobynelson.co.uk)
